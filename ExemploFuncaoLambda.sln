@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploFuncaoLambda", "ExemploFuncaoLambda.csproj", "{FF8A5D72-BCE4-4D48-A259-2FE4AC4B3E56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploFuncaoLambda.Tests", "..\..\test\ExemploFuncaoLambda.Tests\ExemploFuncaoLambda.Tests.csproj", "{C48284A6-507A-4F60-BC0F-468FDB13B6F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8A5D72-BCE4-4D48-A259-2FE4AC4B3E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8A5D72-BCE4-4D48-A259-2FE4AC4B3E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8A5D72-BCE4-4D48-A259-2FE4AC4B3E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8A5D72-BCE4-4D48-A259-2FE4AC4B3E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48284A6-507A-4F60-BC0F-468FDB13B6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48284A6-507A-4F60-BC0F-468FDB13B6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48284A6-507A-4F60-BC0F-468FDB13B6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48284A6-507A-4F60-BC0F-468FDB13B6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA7A068-59AA-4032-8AAB-B100C1A32D74}
+	EndGlobalSection
+EndGlobal
